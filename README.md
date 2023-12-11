@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Logo](https://github.com/images/logo.png)
+![GitHub Logo]([https://github.com/images/logo.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 <!--
 **belhoutahmed/belhoutahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
