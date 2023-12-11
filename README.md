@@ -1,72 +1,98 @@
-<h3 align="left">Languages and Tools</h3>
-<table align="center">
-  <tr>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://user-images.githubusercontent.com/74218805/219943906-b4358d18-6a40-4aa1-9961-511fb9f63f39.png" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
-    </td>
-  </tr>
-</table>
-<div align="center">
-<!--   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p>  -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p>
-</div>
-<h3 align="left">Contact me</h3>
-<table align="center">
-  <tr>
-    <td>
-            <a href="https://www.linkedin.com/in/belli-bilal/" >
-            <img src="https://user-images.githubusercontent.com/74218805/219942623-a1e2387a-846e-4ee5-b25d-1005b934e0a4.png" alt="linkedin" height="30" width="30">
-            </a>
-    </td>
-    <td>
-            <a href="https://discord.gg/Bi_lal#6555" ><img src="https://user-images.githubusercontent.com/74218805/219942643-7b88b034-b293-4148-92b3-94940e0c58fb.png" alt="discord" height="30" width="30">
-            </a>
-    </td>
-    <td>
-          <a href="https://twitter.com/bilal_belli_" >
-             <img src="https://user-images.githubusercontent.com/74218805/219942421-0f5ca341-bf60-4d61-a450-1beb3d96d163.png" alt="twitter" height="30" width="30">
-          </a>
-    </td>
-    <td>
-            <a href="jb_belli@esi.dz" ><img src="https://user-images.githubusercontent.com/74218805/219942942-778dd537-04d9-4bac-9a84-1a3c3d534948.png" alt="gmail" height="30" width="30">
-            </a>
-    </td>
-    <td>
-            <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://user-images.githubusercontent.com/74218805/219943025-0812d56a-9e8d-4d45-96bc-34d17b6504b1.png" alt="stackoverflow" height="30" width="30">
-            </a>
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Profile</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #007bff;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>John Doe</h1>
+        <p>Software Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a passionate software developer with experience in building web applications.
+            My goal is to create efficient and scalable software solutions to solve real-world problems.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5, CSS3, JavaScript</li>
+            <li>React, Vue.js</li>
+            <li>Node.js, Express</li>
+            <li>Git, GitHub</li>
+            <li>SQL, MongoDB</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="https://github.com/example/project1">Project 1</a></li>
+            <li><a href="https://github.com/example/project2">Project 2</a></li>
+            <!-- Add more projects as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: john.doe@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/johndoe/">John Doe</a></p>
+        <p>GitHub: <a href="https://github.com/johndoe">johndoe</a></p>
+    </section>
+
+</body>
+</html>
