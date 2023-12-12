@@ -68,7 +68,8 @@
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="50" width="50">
     </td>
-     
+     <td colspan=4>
+    </td>
     
   </tr>
    <tr>
