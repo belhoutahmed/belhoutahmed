@@ -10,9 +10,6 @@
 
 
 
-
-<br><br>
-
 <table>
   <thead>
     <th>Skills</th>
