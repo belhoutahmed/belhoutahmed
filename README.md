@@ -1,18 +1,17 @@
 ### Hi there 👋 
-### belhoutahmed
+### Belhout Ahmed
 
 
-- 🎓 CS student at esi algiers
-- 🔭 I’m currently working on a big project nchlh
-- 🌱 I’m currently learning data science and more in web dev
-- 💬 If u need something in web dev I would be glad to help you
-- 📫 How to email me: jc_berkane@esi.dz
-- 🎓 My portfolio : <a href="https://profile-extra-nine.vercel.app" >Chamsou-Br </a>
-
+- 🎓 CS final-year student at esi algiers
+- 🔭 I’m currently working on my PFE project
+- 💬 If u need something in mobile dev I would be glad to help you
+- 📫 How to email me: ja_belhout@esi.dz
+- 🔗 My Linkdin : <a href="https://www.linkedin.com/in/ahmed-belhout-16aa27229/" >Chamsou-Br </a>
 
 
 
 
+</br>
 <table>
   <thead>
     <th>Skills</th>
