@@ -23,9 +23,7 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50" width="50">
     </td> 
-     </td>
-     <td colspan=2>
-    </td>
+     
   </tr>
    <tr>
     <th>Mobile Development</th>
