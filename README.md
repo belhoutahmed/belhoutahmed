@@ -33,9 +33,12 @@
    <tr>
     <th>Mobile Development</th>
     <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50" width="50">
+    </td>
+      <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" height="50" width="50">
     </td>
-     <td colspan=7>
+     <td colspan=6>
     </td>
   </tr>
    <tr>
