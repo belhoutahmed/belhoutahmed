@@ -35,10 +35,13 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50" width="50">
     </td>
+     <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" height="50" width="50">
+    </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" height="50" width="50">
     </td>
-     <td colspan=6>
+     <td colspan=5>
     </td>
   </tr>
    <tr>
