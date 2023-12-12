@@ -6,12 +6,13 @@
 - 🔭 I’m currently working on my PFE project
 - 💬 If u need something in mobile dev I would be glad to help you
 - 📫 How to email me: ja_belhout@esi.dz
-- 🔗 My Linkdin : <a href="https://www.linkedin.com/in/ahmed-belhout-16aa27229/" >Chamsou-Br </a>
+- 🔗 My Linkdin : <a href="https://www.linkedin.com/in/ahmed-belhout-16aa27229/" >Ahmed Belhout </a>
 
 
 
 
-</br>
+<br><br><br><br><br><br>
+
 <table>
   <thead>
     <th>Skills</th>
