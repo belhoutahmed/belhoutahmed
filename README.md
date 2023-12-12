@@ -23,6 +23,9 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="50" width="50">
     </td> 
+    <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" height="50" width="50">
+    </td> 
      
   </tr>
    <tr>
