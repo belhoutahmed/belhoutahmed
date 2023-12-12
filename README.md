@@ -58,6 +58,23 @@
     </td>
   </tr>
    <tr>
+    <th>DevOps</th>
+    <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50" width="50">
+    </td>
+     <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" height="50" width="50">
+    </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" height="50" width="50">
+    </td>
+     <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" height="50" width="50">
+    </td>
+     <td colspan=4>
+    </td>
+  </tr>
+   <tr>
     <th>Other</th>
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="50" width="50">
