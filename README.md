@@ -21,7 +21,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="50" width="50">
     </td> 
     <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50" width="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="50" width="50">
     </td> 
      
   </tr>
