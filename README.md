@@ -1,7 +1,7 @@
 <table>
   <thead>
     <th>Skills</th>
-    <th colspan=8>Langages</th>
+    <th colspan=8>Langages & Frameworks</th>
   </thead>
   <tr>
     <th>Web Development</th>
@@ -23,12 +23,9 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50" width="50">
     </td> 
-    <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50">
-    </td> 
-    <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50">
-    </td> 
+     </td>
+     <td colspan=2>
+    </td>
   </tr>
    <tr>
     <th>Mobile Development</th>
